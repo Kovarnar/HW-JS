@@ -76,4 +76,5 @@ body {
     text-align: center;
     color: #000;
     cursor: pointer;
+    transition: letter-spacing .3s ease;
 }
